@@ -11,6 +11,7 @@ To deploy this project run
 ```bash
   npm install
   add .env file
+  npm run start
 ```
 
 
